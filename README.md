@@ -42,7 +42,7 @@ Deprem Gözlem, Türkiye'deki son deprem verilerini Kandilli Rasathanesi'nden ot
 
 
 
-* Python 3.12+
+* `Python 3.12+`
 
 * `PySide6`
 
